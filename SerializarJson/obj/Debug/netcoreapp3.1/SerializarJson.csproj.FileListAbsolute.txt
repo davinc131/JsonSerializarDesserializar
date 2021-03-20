@@ -1,0 +1,15 @@
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.exe
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.deps.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.runtimeconfig.dev.json
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csprojAssemblyReference.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfoInputs.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.AssemblyInfo.cs
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CoreCompileInputs.cache
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.csproj.CopyComplete
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.dll
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.pdb
+C:\Users\davin\source\repos\SerializarJson\SerializarJson\obj\Debug\netcoreapp3.1\SerializarJson.genruntimeconfig.cache

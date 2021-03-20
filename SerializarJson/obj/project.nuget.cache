@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTPHJ/qOvQSTCZoHcAvLF0zf7zjATaJkfTqDTHYfrc72lpItbWqZOvCQL0Tqndx7rNWvprnSJMlU93e340+Ncg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davin\\source\\repos\\SerializarJson\\SerializarJson\\SerializarJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
